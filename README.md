@@ -1,14 +1,14 @@
 🧮 Simple Calculator – Java AWT GUI Application
+
 Description
-Simple Calculator is a basic desktop calculator application built using Java and the Abstract Window Toolkit (AWT). This project showcases core Java programming concepts, object-oriented design, and the use of native GUI components to create a functional and responsive user interface.
+Simple Calculator is a basic desktop calculator application built using Java and the Abstract Window Toolkit (AWT). 
+This project showcases core Java programming concepts, object-oriented design, and the use of native GUI components to create a functional and responsive user interface.
 
 🔧 Technologies Used
 Programming Language: Java
 
 GUI Library: AWT (Abstract Window Toolkit)
-
 IDE: IntelliJ IDEA
-
 Platform Compatibility: Cross-platform (Windows, macOS, Linux)
 
 
